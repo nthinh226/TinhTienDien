@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinhTienDien_OnTap_LTNC_5", "TinhTienDien_OnTap_LTNC_5\TinhTienDien_OnTap_LTNC_5.csproj", "{61F89EBD-FE70-4CD9-9BA4-F577C46B4D1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61F89EBD-FE70-4CD9-9BA4-F577C46B4D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F89EBD-FE70-4CD9-9BA4-F577C46B4D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F89EBD-FE70-4CD9-9BA4-F577C46B4D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F89EBD-FE70-4CD9-9BA4-F577C46B4D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3520466-62D5-4E62-B182-6A76BE0B7C7B}
+	EndGlobalSection
+EndGlobal
